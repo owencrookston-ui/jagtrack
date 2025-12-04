@@ -28,11 +28,11 @@ My Classes for Next Quarter:
 
 Explanation:
 [Write 4-6 sentences about your next quarter schedule:
-- Why did you choose these classes?
-- What are you most looking forward to learning?
-- Which class do you think will be most challenging and why?
+- Why did you choose these classes?    I chose these classes to get the required credits(core classes) and to have fun and to learn interesting things(electives).
+- What are you most looking forward to learning?  I am looking forward to history.
+- Which class do you think will be most challenging and why? I think english will be the most challenging because of the teaching style.
 - If you have a free period, how do you plan to use it productively?
-- How will these classes help you reach your academic or career goals?]
+- How will these classes help you reach your academic or career goals?]    They will help me graduate from high school, and also have lots of knowledge in many different areas.
 
 
 Free Period Challenge (if applicable):
@@ -47,12 +47,12 @@ REFLECTION
 
 What I Learned:
 [Write 5-8 sentences reflecting on Module 1:
-- What Bootstrap concepts made sense to you?
-- What was most challenging?
-- How do you feel about your CSS customization?
-- What would you add to JagTrack in the future?
-- How will you use this site for planning next quarter?]
+- What Bootstrap concepts made sense to you?  It made sense that there was a premade program, so you didn't have to remake it every time.  
+- What was most challenging?   It was confusing when there was the "'''html". I thought that I was suposed to add that, but I wasn't, but I got it fixed.
+- How do you feel about your CSS customization?  I feel pretty good about it. I feel like I can understand and be able to change most of it.
+- What would you add to JagTrack in the future?  I might add the AI bot or some more information, like a monthly schedule.
+- How will you use this site for planning next quarter?]  I will look at it and use it to organize my classes and access the page.
 
 
-Hours Spent: [Approximate time on this module]
+Hours Spent: [2.5 hours]
 ```
