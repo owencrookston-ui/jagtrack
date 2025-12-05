@@ -56,3 +56,21 @@ What I Learned:
 
 Hours Spent: [2.5 hours]
 ```
+
+
+
+Calendar Setup:
+- Did you create a new calendar or use an existing one? I created a new one named Jag Track
+- How many Canvas iCal feeds did you add? 1
+- Did you add them individually by course or as one combined feed? I added it individually.
+
+
+Reflection:
+[Write 4-5 sentences about the calendar integration:  
+- How will this calendar help you stay organized?     This will help me stay organized by helping me see due dates.
+- What challenges did you face getting it set up?     It was slightly confusing with the directions, but I was able to figure it out.
+- Did you customize the calendar appearance? How?     I did customize the calendar border by customizing the iframe tag in css.
+- What view works best for you (month, week, agenda)? I like the month because it is a visual and I can see things in advance.
+- What other calendars might you add in the future?]  I think I might add birthdays of my friends and family.
+
+
