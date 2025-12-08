@@ -6,42 +6,6 @@ Date: 11/20/2025
 
 ---
 
-
-CHOICE POINT #1: COLOR THEME
-Option Chosen: [A]
-Explanation: I chose option a because I like our school colors. I like the theme, with the black and gold. I also like the school spirit that it has. I also like that a website for school has school colors.
-
-
----
-
-
-NEXT QUARTER PLANNING (myclassesnextquarter.html)
-
-
-My Classes for Next Quarter:
-- A Block: [Class Name] - [Time]
-- B Block: [Class Name] - [Time] (or Free Period)
-- C Block: [Class Name] - [Time]
-- D Block: [Class Name] - [Time]
-(Add 1st Period if applicable)
-
-
-Explanation:
-[Write 4-6 sentences about your next quarter schedule:
-- Why did you choose these classes?    I chose these classes to get the required credits(core classes) and to have fun and to learn interesting things(electives).
-- What are you most looking forward to learning?  I am looking forward to history.
-- Which class do you think will be most challenging and why? I think english will be the most challenging because of the teaching style.
-- If you have a free period, how do you plan to use it productively?
-- How will these classes help you reach your academic or career goals?]    They will help me graduate from high school, and also have lots of knowledge in many different areas.
-
-
-Free Period Challenge (if applicable):
-[If you have a free period, did you complete the challenge to hide it on mobile? Explain how you implemented it using d-none d-sm-block]
-
-
----
-
-
 REFLECTION
 
 
@@ -72,5 +36,32 @@ Reflection:
 - Did you customize the calendar appearance? How?     I did customize the calendar border by customizing the iframe tag in css.
 - What view works best for you (month, week, agenda)? I like the month because it is a visual and I can see things in advance.
 - What other calendars might you add in the future?]  I think I might add birthdays of my friends and family.
+
+
+
+Color Scheme Design:
+[Write 5-7 sentences about your color choices:
+- What colors did you choose for light mode? Why?   I chose the regular colors because they have school spirit and the loook nice.
+- What colors did you choose for dark mode? Why?    I chose darker versions of the regular colors because it matches the light mode and is darker.
+- How do your color choices reflect your personality or style?    They reflect that I like this school and that I have good school spirit.
+- Did you use any color theory principles (complementary, analogous, etc.)?  Not really, I just went with what looked good.
+- How did you ensure good contrast for accessibility?    I used light text on a darker background, and made sure the text was light enough.
+- What tools did you use to help choose colors?           I used my eyes and the previous colors and changed those.
+- Were there any colors you tried that didn't work? Why not?]    I did make the text too dark one time, and it was hard to see.
+
+
+Theme Preferences:
+- Which theme do you prefer personally and why? [Your answer]    I like the light theme because the colors match more.
+- When do you think dark mode is most useful? [Your answer]       I think it is most useful when your surroundings are darker because your screen won't be as bright.
+- Did you create any custom CSS for the toggle button? [Describe]   I changed the color to make it look like when you hover, the sun or moon starts to glow because the color is a yellow.
+
+
+JavaScript Understanding:
+[Write 4-5 sentences showing you understand the JavaScript code:
+- In your own words, what does the JavaScript do?  v       It updates the page and helps buttons work.
+- What is localStorage and why is it useful?     It is information stored with the website and it helps the page update and use the information.
+- What happens when you click the theme toggle button?   It changes the colors of the website to either dark or light mode.
+- Why does the theme preference persist when you reload the page?    It saves the preferance in local storage.  
+- How might you use JavaScript in future projects?]    It will be helpful with buttons and saving preferances.
 
 

@@ -2,24 +2,54 @@
 /* Official Jefferson Academy Colors: Black & Gold */
 
 
+
+
+/* ===== CSS VARIABLES FOR LIGHT MODE (DEFAULT) ===== */
+
+
 :root {
-  /* Primary Brand Colors */
+ /* Primary Brand Colors */
   --jag-black: #000000;          /* Jefferson Academy Black */
   --jag-gold: #D7CD89;           /* Jefferson Academy Gold */
   --jag-accent: #b1a363;         /* Darker gold accent */
 
 
-  /* Text Colors */
+ /* Text Colors */
   --text-dark: #000000;
   --text-light: #ffffff;
   --text-muted: #6c757d;
 
 
-  /* Background Colors */
+ /* Background Colors */
   --background-light: #f8f7f2;   /* Light gold background */
   --background-white: #ffffff;
   --background-dark: #343a40;
 }
+
+
+/* ===== CSS VARIABLES FOR DARK MODE ===== */
+
+
+[data-theme="dark"] {
+ /* Primary Brand Colors */
+  --jag-black: #000000;          /* Jefferson Academy Black */
+  --jag-gold: #D7CD89;           /* Jefferson Academy Gold */
+  --jag-accent: #b1a363;         /* Darker gold accent */
+
+
+ /* Text Colors */
+  --text-dark: #fcfcfc;
+  --text-light: #acacac;
+  --text-muted: #ebebeb;
+
+
+ /* Background Colors */
+  --background-light: #4b4b4b;   /* Light gold background */
+  --background-white: #a5a5a5;
+  --background-dark: #323538;
+}
+
+
 
 
 /* ===== BODY & GENERAL STYLES ===== */
@@ -284,4 +314,18 @@ body {
 iframe{
   background-color:#343a40;
   border-color:#b1a363;
+}
+
+#theme-toggle {
+ font-size: 1.5rem;
+ padding: 5px 10px;
+ margin-left: 10px;
+ border-radius: 50%;
+ transition: all 0.3s ease;
+}
+
+
+#theme-toggle:hover {
+ background-color: rgba(228, 184, 89, 0.1);
+ transform: scale(1.1);
 }
