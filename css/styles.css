@@ -43,9 +43,9 @@
   --text-muted: #ebebeb;
 
 
- /* Background Colors */
-  --background-light: #4b4b4b;   /* Light gold background */
-  --background-white: #a5a5a5;
+ /* Background Colors #323538 */
+  --background-light: #474747;   /* Light gold background */
+  --background-white: #55533f;
   --background-dark: #323538;
 }
 
@@ -328,4 +328,83 @@ iframe{
 #theme-toggle:hover {
  background-color: rgba(228, 184, 89, 0.1);
  transform: scale(1.1);
+}
+
+/*  about me styles   */
+.about-me{
+  color: #b1a363;
+  background-color:#1e2022;
+  font-weight:bold;
+  font-family:'Courier New', Courier, monospace;
+  margin:50px 200px 50px 200px;
+  text-align:center;
+  font-size: 100px;
+  border-width:5px;
+  border-color: #b1a363;
+  border-style:solid;
+}
+
+#hero{
+  background-color: #1e2022;
+  color:#d1d1d1;
+  padding:30px;
+  border-width:3px;
+  border-color:#b1a363;
+  border-style:solid;
+  margin:0px 25px 25px 25px;
+}
+
+#oween{
+  color:#b1a363;
+}
+
+#profile{
+  border-width:3px;
+  border-color:#b1a363;
+  border-style:dashed;
+  width:200px;
+}
+
+.goals{
+  font-size:50px;
+}
+
+.card-title{
+  border-bottom-style:solid;
+  border-bottom-color:#b1a363;
+  border-bottom-width:2px;
+  color:#b1a363;
+}
+.card{
+  margin:10px;
+  background-color:#1e2022;
+  color:#d1d1d1;
+  border-style:solid;
+  border-color:#b1a363;
+  border-width:3px;
+}
+
+.fishie{
+  margin:5px;
+  background-color:#1e2022;
+  border-style:solid;
+  border-color:#D7CD89
+}
+
+.fishie:hover{
+  background-color:#323538;
+  border-style:solid;
+  border-color:#D7CD89
+}
+
+.fishie:active{
+  background-color:#222222;
+  border-style:solid;
+  border-color:#D7CD89
+}
+
+.birdie{
+  background-color:#1e2022;
+  border-style:solid;
+  border-color:#D7CD89
 }

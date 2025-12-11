@@ -64,4 +64,29 @@ JavaScript Understanding:
 - Why does the theme preference persist when you reload the page?    It saves the preferance in local storage.  
 - How might you use JavaScript in future projects?]    It will be helpful with buttons and saving preferances.
 
+1. Media component - Used for hero section
+2. cards - Used for goals
+3. collapse - Used for favorite classes
+4. fluid jumbotron - Used for intrests
+(Add more if you used more than 4)
+
+
+Design Choices:
+[Write 6-8 sentences explaining your design decisions:
+- Why did you choose those specific Bootstrap components?  They looked the best and were most useful for what I needed them for.
+- How did you decide on the layout and structure?   I thought it looked best
+- What challenges did you face while building this page?   It was hard getting the cards centered for the goals.
+- What are you most proud of on this page? I am proud of the  goal section because I was able to work through the problem.
+- How does this page reflect your personality?   It says what I like and it has my school colors. 
+- What would you add or improve if you had more time?  I would probably add more information.
+- How did you ensure the page was responsive?]   I tested it out myself.
+
+
+Research and Problem-Solving:
+[Write 4-5 sentences about your learning process:
+- What resources did you use (Bootstrap docs, W3Schools, etc.)? I used Bootstrap docs and W3Schools.
+- What was the hardest part to figure out?  It was hard to figure out how to center certain things.
+- Did you need to troubleshoot any issues? How did you solve them?  I did need to troubleshoot some issues. I solved them by looking it up and asking Mr.Fire.
+- What did you learn about researching and implementing new components? I learned that it is very helpful to look things up and they have most answers.
+- How has your confidence with Bootstrap grown from Module 1 to Module 2?] It has grown a lot, because I actually know more about what things are.
 
